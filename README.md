@@ -7,7 +7,7 @@ A ready-to-run `summarizer.ipynb` notebook that extracts key points from documen
 ## ▶️ How to Use  
 1. **Open the notebook in GitHub**:  
    - Click [`summarizer.ipynb`](./summarizer.ipynb) in this repo.  
-   - Launch it interactively with [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yourusername/quick-pdf-summary-tool/blob/main/summarizer.ipynb).  
+   - Or launch it interactively with [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rojberr/quick-pdf-summary-tool/blob/master/summarizer.ipynb)!  
 
 2. **Execute the cells**:  
    - Upload your PDF/TXT file  
