@@ -17,6 +17,7 @@ A ready-to-run `summarizer.ipynb` notebook that extracts key points from documen
 - **Single-file solution**: No dependencies to install (uses free Google Colab runtime).  
 - **Adjustable summary length**: Short/medium/long output.  
 - **Works on GitHub**: Preview results without running.  
+- Use Gemini as it API use is free so far
 
 ## 📝 Example Code (From Notebook)  
 ```python
